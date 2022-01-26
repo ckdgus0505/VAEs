@@ -190,5 +190,5 @@ $RECYCLE.BIN/
 *.msp
 
 MNIST_DATASET
-reconstructed
+sample_image.png
 
